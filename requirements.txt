@@ -1,0 +1,9 @@
+pyotp==2.2.6
+html-testRunner==1.1.2
+unittest-xml-reporting==2.1.1
+selenium==3.11.0
+beautifulsoup4==4.6.0
+psutil==5.4.7
+PyYAML==3.13
+requests==2.20
+pytz==2018.7

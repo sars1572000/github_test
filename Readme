@@ -1,0 +1,13 @@
+first Install python3 & pip3 & Chrome
+
+
+Installation dependence
+pip3 install -r requirements.txt
+
+
+
+Usage:
+Go to the folder where Readme is located
+Run below command
+
+python3 github.py
