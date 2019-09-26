@@ -42,7 +42,7 @@ class LoginTest(unittest.TestCase):
             ss.screenshot()
         self.driver.quit()
 
-    def test_no_such_user(self):  # 1.no such user
+    def test_login(self): 
         try:
             self.home_page.click_button("sign_in_button")
             self.login_page.input_element_text('username', "test25178489@gmail.com")
